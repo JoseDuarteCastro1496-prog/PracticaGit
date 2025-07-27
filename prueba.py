@@ -61,4 +61,5 @@ def otra_funcion ():
 def funcion_3():
     print ("funcion 3")
     
-    
+def funcion_4():
+    print ("funcion 4")

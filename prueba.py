@@ -52,13 +52,12 @@ def sonar (objeto):
 perro1 = perro ();
 sonar (perro1)
 
-
-
 def nueva_funcion ():
     print("En git")
     
 def otra_funcion ():
     print ("funcion 2")
     
-    
+def funcion_3():
+    print ("funcion 3")
     

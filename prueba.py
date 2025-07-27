@@ -51,3 +51,8 @@ def sonar (objeto):
     
 perro1 = perro ();
 sonar (perro1)
+
+
+
+def nueva_funcion ():
+    print("En git")

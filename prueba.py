@@ -63,3 +63,6 @@ def funcion_3():
     
 def funcion_4():
     print ("funcion 4")
+
+def funcion_5():
+    print ("funcion 5")

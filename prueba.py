@@ -57,6 +57,6 @@ def sumar_dos_numeros ():
     print("Esta es la funcion correcta")
 
 
-def multiplica ():  
-    pass 
-    
+def multiplica (num, num2):  
+    def multiplicar ():
+        num * num2

@@ -56,3 +56,7 @@ sonar (perro1)
 def sumar_dos_numeros ():
     print("Esta es la funcion correcta")
 
+
+def multiplica ():  
+    pass 
+    
